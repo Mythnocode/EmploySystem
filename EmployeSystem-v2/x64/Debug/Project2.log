@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\Project2\main.cpp(80,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\Project2\main.cpp(113,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\Project2\main.cpp(188,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\Project2\main.cpp(458,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\Project2\main.cpp(718,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\Project2\main.cpp(953,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\Project2\main.cpp(956,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\Project2\main.cpp(1132,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\Project2\main.cpp(1141,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\Project2\main.cpp(1395,6): warning C4326: “main”的返回类型应为“int”而非“void”
+  LINK : 没有找到 D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\x64\Debug\Project2.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Project2.vcxproj -> D:\西工程大复习资料\计算机类\2025大一上整理\c语言课设\教职工管理系统（彩色  2505李奥康手敲）\Project2\x64\Debug\Project2.exe
